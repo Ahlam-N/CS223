@@ -13,9 +13,11 @@ namespace Assignment4_on_GUI
 {
     public partial class Form1 : Form
     {
-        public Form1()
+        public string username { get; set; }
+        public Form1(string user)
         {
             InitializeComponent();
+            label7.Text = user;
         }
 
         private void Form1_Load(object sender, EventArgs e)
@@ -26,6 +28,7 @@ namespace Assignment4_on_GUI
         private void txt_buttonclick1_Click(object sender, EventArgs e)
         {
            
+     
            product md= new product();
             {
                 md.number = txt_number.Text;
@@ -34,6 +37,13 @@ namespace Assignment4_on_GUI
                 md.objectname = txt_objectname.Text;
                 md.price=txt_price.Text;
                 md.count=txt_count.Text;
+                checkedListBox1.CheckedItems.Contains(md);
+                String message = " ";
+                foreach (var item in checkedListBox1.CheckedItems)
+                {
+                    message += item.ToString();
+                }
+                MessageBox.Show(message);
                 
             }
             md.save();
@@ -85,6 +95,21 @@ this.Close();
         {
            
 
+
+        }
+
+        private void checkBox1_CheckedChanged(object sender, EventArgs e)
+        {
+
+        }
+
+        private void groupBox1_Enter(object sender, EventArgs e)
+        {
+
+        }
+
+        private void label7_Click(object sender, EventArgs e)
+        {
 
         }
     }
