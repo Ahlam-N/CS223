@@ -37,7 +37,7 @@ namespace Assignment4_on_GUI
             }
 
 
-           Main display = new Main("Ahlam");
+         Login display = new Login();
             display.MdiParent = this;
             display.Show();
         }
@@ -122,7 +122,21 @@ namespace Assignment4_on_GUI
             }
 
 
-            Main display = new Main("AHLAM");
+            Login display = new Login();
+            display.MdiParent = this;
+            display.Show();
+        }
+
+        private void addNewProductToolStripMenuItem_Click(object sender, EventArgs e)
+        {
+            var activescreen = ActiveMdiChild;
+            if (ActiveMdiChild != null)
+            {
+                activescreen.Close();
+            }
+
+
+            Main display = new Main("Ahlam");
             display.MdiParent = this;
             display.Show();
         }

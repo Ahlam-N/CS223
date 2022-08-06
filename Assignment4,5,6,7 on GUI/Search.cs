@@ -26,12 +26,12 @@ namespace Assignment4_on_GUI
             }
             else
             {
-              label1.Text = products.objectname;
-                label2.Text = products.price;
-                label3.Text = products.count;
-                label4.Text = products.Number;
-                label5.Text = products.inventorynumber;
-              label6.Text = products.date;
+              //label7.Text = products.objectname;
+                label7.Text = products.price;
+                label8.Text = products.count;
+                label9.Text = products.Number;
+                label10.Text = products.inventorynumber;
+              label11.Text = products.date;
 
 
             }
