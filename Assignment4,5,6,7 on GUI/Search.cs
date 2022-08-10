@@ -26,7 +26,7 @@ namespace Assignment4_on_GUI
             }
             else
             {
-              //label7.Text = products.objectname;
+             // label7.Text = products.objectname;
                 label7.Text = products.price;
                 label8.Text = products.count;
                 label9.Text = products.Number;

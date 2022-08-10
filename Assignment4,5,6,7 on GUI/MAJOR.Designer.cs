@@ -30,11 +30,12 @@
         {
             this.menuStrip1 = new System.Windows.Forms.MenuStrip();
             this.toolStripMenuItem1 = new System.Windows.Forms.ToolStripMenuItem();
+            this.addNewProductToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
             this.departmentToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
             this.departmentNameToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
             this.searchToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
             this.searchItemToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
-            this.addNewProductToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
+            this.homePageToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
             this.menuStrip1.SuspendLayout();
             this.SuspendLayout();
             // 
@@ -45,7 +46,8 @@
             this.menuStrip1.Items.AddRange(new System.Windows.Forms.ToolStripItem[] {
             this.toolStripMenuItem1,
             this.departmentToolStripMenuItem,
-            this.searchToolStripMenuItem});
+            this.searchToolStripMenuItem,
+            this.homePageToolStripMenuItem});
             this.menuStrip1.Location = new System.Drawing.Point(0, 0);
             this.menuStrip1.Name = "menuStrip1";
             this.menuStrip1.Size = new System.Drawing.Size(800, 33);
@@ -60,6 +62,13 @@
             this.toolStripMenuItem1.Size = new System.Drawing.Size(122, 29);
             this.toolStripMenuItem1.Text = "Registration";
             this.toolStripMenuItem1.Click += new System.EventHandler(this.toolStripMenuItem1_Click);
+            // 
+            // addNewProductToolStripMenuItem
+            // 
+            this.addNewProductToolStripMenuItem.Name = "addNewProductToolStripMenuItem";
+            this.addNewProductToolStripMenuItem.Size = new System.Drawing.Size(253, 34);
+            this.addNewProductToolStripMenuItem.Text = "Add new product";
+            this.addNewProductToolStripMenuItem.Click += new System.EventHandler(this.addNewProductToolStripMenuItem_Click);
             // 
             // departmentToolStripMenuItem
             // 
@@ -88,16 +97,16 @@
             // searchItemToolStripMenuItem
             // 
             this.searchItemToolStripMenuItem.Name = "searchItemToolStripMenuItem";
-            this.searchItemToolStripMenuItem.Size = new System.Drawing.Size(207, 34);
+            this.searchItemToolStripMenuItem.Size = new System.Drawing.Size(270, 34);
             this.searchItemToolStripMenuItem.Text = "Search Item";
             this.searchItemToolStripMenuItem.Click += new System.EventHandler(this.searchItemToolStripMenuItem_Click);
             // 
-            // addNewProductToolStripMenuItem
+            // homePageToolStripMenuItem
             // 
-            this.addNewProductToolStripMenuItem.Name = "addNewProductToolStripMenuItem";
-            this.addNewProductToolStripMenuItem.Size = new System.Drawing.Size(270, 34);
-            this.addNewProductToolStripMenuItem.Text = "Add new product";
-            this.addNewProductToolStripMenuItem.Click += new System.EventHandler(this.addNewProductToolStripMenuItem_Click);
+            this.homePageToolStripMenuItem.Name = "homePageToolStripMenuItem";
+            this.homePageToolStripMenuItem.Size = new System.Drawing.Size(99, 29);
+            this.homePageToolStripMenuItem.Text = "Buy Now";
+            this.homePageToolStripMenuItem.Click += new System.EventHandler(this.homePageToolStripMenuItem_Click);
             // 
             // Form3
             // 
@@ -126,5 +135,6 @@
         private System.Windows.Forms.ToolStripMenuItem searchToolStripMenuItem;
         private System.Windows.Forms.ToolStripMenuItem searchItemToolStripMenuItem;
         private System.Windows.Forms.ToolStripMenuItem addNewProductToolStripMenuItem;
+        private System.Windows.Forms.ToolStripMenuItem homePageToolStripMenuItem;
     }
 }

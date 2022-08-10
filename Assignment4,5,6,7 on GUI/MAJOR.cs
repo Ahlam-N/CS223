@@ -140,6 +140,34 @@ namespace Assignment4_on_GUI
             display.MdiParent = this;
             display.Show();
         }
+
+        private void viewToolStripMenuItem_Click(object sender, EventArgs e)
+        {
+            var activescreen = ActiveMdiChild;
+            if (ActiveMdiChild != null)
+            {
+                activescreen.Close();
+            }
+
+
+           Formforusercontrol display = new Formforusercontrol();
+            display.MdiParent = this;
+            display.Show();
+        }
+
+        private void homePageToolStripMenuItem_Click(object sender, EventArgs e)
+        {
+            var activescreen = ActiveMdiChild;
+            if (ActiveMdiChild != null)
+            {
+                activescreen.Close();
+            }
+          
+
+           Formforusercontrol display = new Formforusercontrol();
+            display.MdiParent = this;
+            display.Show();
+        }
     }
 }
 
