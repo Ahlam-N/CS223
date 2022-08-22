@@ -56,3 +56,22 @@ C:\Users\user\OneDrive\Desktop\Computer Science\4\c#\GitHub Assignment\CS223\Ass
 C:\Users\user\OneDrive\Desktop\Computer Science\4\c#\GitHub Assignment\CS223\Assignment4,5,6,7 on GUI\obj\Debug\Assignment4 on GUI.exe
 C:\Users\user\OneDrive\Desktop\Computer Science\4\c#\GitHub Assignment\CS223\Assignment4,5,6,7 on GUI\obj\Debug\Assignment4 on GUI.pdb
 C:\Users\user\OneDrive\Desktop\Computer Science\4\c#\GitHub Assignment\CS223\Assignment4,5,6,7 on GUI\obj\Debug\Assignment4_on_GUI.Formforusercontrol.resources
+C:\Users\user\OneDrive\Desktop\Computer Science\4\c#\GitHub Assignment\CS223\Assignment4,5,6,7,8 on GUI\bin\Debug\Assignment4 on GUI.exe.config
+C:\Users\user\OneDrive\Desktop\Computer Science\4\c#\GitHub Assignment\CS223\Assignment4,5,6,7,8 on GUI\bin\Debug\Assignment4 on GUI.exe
+C:\Users\user\OneDrive\Desktop\Computer Science\4\c#\GitHub Assignment\CS223\Assignment4,5,6,7,8 on GUI\bin\Debug\Assignment4 on GUI.pdb
+C:\Users\user\OneDrive\Desktop\Computer Science\4\c#\GitHub Assignment\CS223\Assignment4,5,6,7,8 on GUI\obj\Debug\Assignment4 on GUI.csproj.AssemblyReference.cache
+C:\Users\user\OneDrive\Desktop\Computer Science\4\c#\GitHub Assignment\CS223\Assignment4,5,6,7,8 on GUI\obj\Debug\Assignment4 on GUI.csproj.SuggestedBindingRedirects.cache
+C:\Users\user\OneDrive\Desktop\Computer Science\4\c#\GitHub Assignment\CS223\Assignment4,5,6,7,8 on GUI\obj\Debug\Assignment4_on_GUI.CustomCard.resources
+C:\Users\user\OneDrive\Desktop\Computer Science\4\c#\GitHub Assignment\CS223\Assignment4,5,6,7,8 on GUI\obj\Debug\Assignment4_on_GUI.Displayallproduct.resources
+C:\Users\user\OneDrive\Desktop\Computer Science\4\c#\GitHub Assignment\CS223\Assignment4,5,6,7,8 on GUI\obj\Debug\Assignment4_on_GUI.Formforusercontrol.resources
+C:\Users\user\OneDrive\Desktop\Computer Science\4\c#\GitHub Assignment\CS223\Assignment4,5,6,7,8 on GUI\obj\Debug\Assignment4_on_GUI.Main.resources
+C:\Users\user\OneDrive\Desktop\Computer Science\4\c#\GitHub Assignment\CS223\Assignment4,5,6,7,8 on GUI\obj\Debug\Assignment4_on_GUI.Login.resources
+C:\Users\user\OneDrive\Desktop\Computer Science\4\c#\GitHub Assignment\CS223\Assignment4,5,6,7,8 on GUI\obj\Debug\Assignment4_on_GUI.Form3.resources
+C:\Users\user\OneDrive\Desktop\Computer Science\4\c#\GitHub Assignment\CS223\Assignment4,5,6,7,8 on GUI\obj\Debug\Assignment4_on_GUI.Form4.resources
+C:\Users\user\OneDrive\Desktop\Computer Science\4\c#\GitHub Assignment\CS223\Assignment4,5,6,7,8 on GUI\obj\Debug\Assignment4_on_GUI.Panel.resources
+C:\Users\user\OneDrive\Desktop\Computer Science\4\c#\GitHub Assignment\CS223\Assignment4,5,6,7,8 on GUI\obj\Debug\Assignment4_on_GUI.Search.resources
+C:\Users\user\OneDrive\Desktop\Computer Science\4\c#\GitHub Assignment\CS223\Assignment4,5,6,7,8 on GUI\obj\Debug\Assignment4_on_GUI.Properties.Resources.resources
+C:\Users\user\OneDrive\Desktop\Computer Science\4\c#\GitHub Assignment\CS223\Assignment4,5,6,7,8 on GUI\obj\Debug\Assignment4 on GUI.csproj.GenerateResource.cache
+C:\Users\user\OneDrive\Desktop\Computer Science\4\c#\GitHub Assignment\CS223\Assignment4,5,6,7,8 on GUI\obj\Debug\Assignment4 on GUI.csproj.CoreCompileInputs.cache
+C:\Users\user\OneDrive\Desktop\Computer Science\4\c#\GitHub Assignment\CS223\Assignment4,5,6,7,8 on GUI\obj\Debug\Assignment4 on GUI.exe
+C:\Users\user\OneDrive\Desktop\Computer Science\4\c#\GitHub Assignment\CS223\Assignment4,5,6,7,8 on GUI\obj\Debug\Assignment4 on GUI.pdb

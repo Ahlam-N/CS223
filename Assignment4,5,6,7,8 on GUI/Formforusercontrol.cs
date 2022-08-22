@@ -34,5 +34,15 @@ namespace Assignment4_on_GUI
                 flowLayoutPanel1.Controls.Add(customCard);
             }
         }
+
+        private void customCard2_Load(object sender, EventArgs e)
+        {
+
+        }
+
+        private void flowLayoutPanel1_Paint_1(object sender, PaintEventArgs e)
+        {
+
+        }
     }
 }

@@ -37,5 +37,10 @@ namespace Assignment4_on_GUI
         {
             InitializeComponent();
         }
+
+        private void CustomCard_Load(object sender, EventArgs e)
+        {
+
+        }
     }
 }

@@ -28,21 +28,11 @@
         /// </summary>
         private void InitializeComponent()
         {
-            this.customCard1 = new Assignment4_on_GUI.CustomCard();
             this.flowLayoutPanel1 = new System.Windows.Forms.FlowLayoutPanel();
+            this.customCard1 = new Assignment4_on_GUI.CustomCard();
             this.customCard2 = new Assignment4_on_GUI.CustomCard();
             this.flowLayoutPanel1.SuspendLayout();
             this.SuspendLayout();
-            // 
-            // customCard1
-            // 
-            this.customCard1.Description = "Description";
-            this.customCard1.Location = new System.Drawing.Point(3, 3);
-            this.customCard1.Name = "customCard1";
-            this.customCard1.Price = "200";
-            this.customCard1.Size = new System.Drawing.Size(426, 364);
-            this.customCard1.TabIndex = 0;
-            this.customCard1.Title = "Title";
             // 
             // flowLayoutPanel1
             // 
@@ -52,6 +42,17 @@
             this.flowLayoutPanel1.Name = "flowLayoutPanel1";
             this.flowLayoutPanel1.Size = new System.Drawing.Size(1018, 391);
             this.flowLayoutPanel1.TabIndex = 1;
+            this.flowLayoutPanel1.Paint += new System.Windows.Forms.PaintEventHandler(this.flowLayoutPanel1_Paint_1);
+            // 
+            // customCard1
+            // 
+            this.customCard1.Description = "Yes";
+            this.customCard1.Location = new System.Drawing.Point(3, 3);
+            this.customCard1.Name = "customCard1";
+            this.customCard1.Price = "200";
+            this.customCard1.Size = new System.Drawing.Size(426, 364);
+            this.customCard1.TabIndex = 0;
+            this.customCard1.Title = "Hello";
             // 
             // customCard2
             // 
@@ -62,6 +63,7 @@
             this.customCard2.Size = new System.Drawing.Size(461, 324);
             this.customCard2.TabIndex = 1;
             this.customCard2.Title = null;
+            this.customCard2.Load += new System.EventHandler(this.customCard2_Load);
             // 
             // Formforusercontrol
             // 

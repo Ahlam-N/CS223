@@ -72,6 +72,7 @@
             this.Controls.Add(this.lbl_title);
             this.Name = "CustomCard";
             this.Size = new System.Drawing.Size(461, 324);
+            this.Load += new System.EventHandler(this.CustomCard_Load);
             this.ResumeLayout(false);
             this.PerformLayout();
 

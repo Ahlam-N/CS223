@@ -1,0 +1,29 @@
+C:\Users\user\OneDrive\Desktop\Computer Science\4\c#\GitHub Assignment\CS223\Student Registration\bin\Debug\Student Registration.exe.config
+C:\Users\user\OneDrive\Desktop\Computer Science\4\c#\GitHub Assignment\CS223\Student Registration\bin\Debug\Student Registration.exe
+C:\Users\user\OneDrive\Desktop\Computer Science\4\c#\GitHub Assignment\CS223\Student Registration\bin\Debug\Student Registration.pdb
+C:\Users\user\OneDrive\Desktop\Computer Science\4\c#\GitHub Assignment\CS223\Student Registration\obj\Debug\Student Registration.csproj.AssemblyReference.cache
+C:\Users\user\OneDrive\Desktop\Computer Science\4\c#\GitHub Assignment\CS223\Student Registration\obj\Debug\Student Registration.csproj.SuggestedBindingRedirects.cache
+C:\Users\user\OneDrive\Desktop\Computer Science\4\c#\GitHub Assignment\CS223\Student Registration\obj\Debug\Student_Registration.CustomCard.resources
+C:\Users\user\OneDrive\Desktop\Computer Science\4\c#\GitHub Assignment\CS223\Student Registration\obj\Debug\Student_Registration.Properties.Resources.resources
+C:\Users\user\OneDrive\Desktop\Computer Science\4\c#\GitHub Assignment\CS223\Student Registration\obj\Debug\Student Registration.csproj.GenerateResource.cache
+C:\Users\user\OneDrive\Desktop\Computer Science\4\c#\GitHub Assignment\CS223\Student Registration\obj\Debug\Student Registration.csproj.CoreCompileInputs.cache
+C:\Users\user\OneDrive\Desktop\Computer Science\4\c#\GitHub Assignment\CS223\Student Registration\obj\Debug\Student Registration.exe
+C:\Users\user\OneDrive\Desktop\Computer Science\4\c#\GitHub Assignment\CS223\Student Registration\obj\Debug\Student Registration.pdb
+C:\Users\user\OneDrive\Desktop\Computer Science\4\c#\GitHub Assignment\CS223\Student Registration\obj\Debug\Student_Registration.FlowLayout.resources
+C:\Users\user\OneDrive\Desktop\Computer Science\4\c#\GitHub Assignment\CS223\Student Registration\obj\Debug\Student_Registration.Registration.resources
+C:\Users\user\OneDrive\Desktop\Computer Science\4\c#\GitHub Assignment\CS223\Student Registration\obj\Debug\Student_Registration.TableLayout.resources
+C:\Users\user\OneDrive\Desktop\Computer Science\4\c#\GitHub Assignment\CS223\Student Registration\obj\Debug\Student_Registration.MDI.resources
+C:\Users\user\OneDrive\Desktop\Computer Science\4\c#\GitHub Assignment\CS223\(Assignment9)Student Registration\bin\Debug\Student Registration.exe.config
+C:\Users\user\OneDrive\Desktop\Computer Science\4\c#\GitHub Assignment\CS223\(Assignment9)Student Registration\bin\Debug\Student Registration.exe
+C:\Users\user\OneDrive\Desktop\Computer Science\4\c#\GitHub Assignment\CS223\(Assignment9)Student Registration\bin\Debug\Student Registration.pdb
+C:\Users\user\OneDrive\Desktop\Computer Science\4\c#\GitHub Assignment\CS223\(Assignment9)Student Registration\obj\Debug\Student Registration.csproj.AssemblyReference.cache
+C:\Users\user\OneDrive\Desktop\Computer Science\4\c#\GitHub Assignment\CS223\(Assignment9)Student Registration\obj\Debug\Student Registration.csproj.SuggestedBindingRedirects.cache
+C:\Users\user\OneDrive\Desktop\Computer Science\4\c#\GitHub Assignment\CS223\(Assignment9)Student Registration\obj\Debug\Student_Registration.CustomCard.resources
+C:\Users\user\OneDrive\Desktop\Computer Science\4\c#\GitHub Assignment\CS223\(Assignment9)Student Registration\obj\Debug\Student_Registration.Registration.resources
+C:\Users\user\OneDrive\Desktop\Computer Science\4\c#\GitHub Assignment\CS223\(Assignment9)Student Registration\obj\Debug\Student_Registration.TableLayout.resources
+C:\Users\user\OneDrive\Desktop\Computer Science\4\c#\GitHub Assignment\CS223\(Assignment9)Student Registration\obj\Debug\Student_Registration.MDI.resources
+C:\Users\user\OneDrive\Desktop\Computer Science\4\c#\GitHub Assignment\CS223\(Assignment9)Student Registration\obj\Debug\Student_Registration.Properties.Resources.resources
+C:\Users\user\OneDrive\Desktop\Computer Science\4\c#\GitHub Assignment\CS223\(Assignment9)Student Registration\obj\Debug\Student Registration.csproj.GenerateResource.cache
+C:\Users\user\OneDrive\Desktop\Computer Science\4\c#\GitHub Assignment\CS223\(Assignment9)Student Registration\obj\Debug\Student Registration.csproj.CoreCompileInputs.cache
+C:\Users\user\OneDrive\Desktop\Computer Science\4\c#\GitHub Assignment\CS223\(Assignment9)Student Registration\obj\Debug\Student Registration.exe
+C:\Users\user\OneDrive\Desktop\Computer Science\4\c#\GitHub Assignment\CS223\(Assignment9)Student Registration\obj\Debug\Student Registration.pdb
